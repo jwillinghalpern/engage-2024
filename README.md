@@ -24,7 +24,7 @@ This does two things:
 1. Open the app in FileMaker Pro or Go
 2. Look at it
 
-![screens](./screens.png)
+![screens](./screens.jpg)
 
 ## License
 
