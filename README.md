@@ -1,5 +1,7 @@
 # Claris Engage 2024
 
+**UPDATE: this app is for a bygone Claris Engage Conference. Maybe it can be revived and improved later, but for now, this project is finished**
+
 This does two things:
 
 1. iCal Generator
